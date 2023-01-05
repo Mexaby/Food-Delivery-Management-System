@@ -1,0 +1,7 @@
+Order ID: 4
+Client name: z
+Items: 
+    Product name: "Endive ""Spoons"" with Lemon-Herb Goat Cheese "
+    Product name: Coriander-Herb Spice Rub 
+    Product name: Smoked Caviar and Hummus on Pita Toasts 
+Total value: 180

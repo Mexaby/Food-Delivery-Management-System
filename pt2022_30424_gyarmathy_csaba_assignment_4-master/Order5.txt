@@ -1,0 +1,7 @@
+Order ID: 5
+Client name: z
+Items: 
+    Product name: Toasted Corn Crisps 
+    Product name: The Original Three-Ingredient Rub 
+    Product name: Ethiopian Spice Tea 
+Total value: 162

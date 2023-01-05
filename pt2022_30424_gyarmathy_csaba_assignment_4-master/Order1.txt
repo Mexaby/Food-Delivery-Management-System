@@ -1,0 +1,8 @@
+Order ID: 1
+Client name: z
+Items: 
+    Product name: Beef Stock 
+    Product name: Cauliflower-Leek Purée 
+    Product name: Smoked Caviar and Hummus on Pita Toasts 
+    Product name: Ethiopian Spice Tea 
+Total value: 167

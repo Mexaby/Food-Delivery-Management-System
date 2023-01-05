@@ -1,0 +1,6 @@
+Order ID: 3
+Client name: z
+Items: 
+    Product name: Beef Stock 
+    Product name: Cilantro-Tomato Salsa 
+Total value: 128

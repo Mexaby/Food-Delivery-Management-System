@@ -1,0 +1,10 @@
+Order ID: 2
+Client name: z
+Items: 
+    Product name: Classic Salad 
+    Product name: Arugula Salad with Heirloom Tomatoes and Red Onion 
+    Product name: Cilantro-Tomato Salsa 
+    Product name: Cauliflower-Leek Purée 
+    Product name: Smoked Caviar and Hummus on Pita Toasts 
+    Product name: Ethiopian Spice Tea 
+Total value: 230
